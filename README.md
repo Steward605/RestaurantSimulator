@@ -1,2 +1,2 @@
 # RestaurantSimulator
-Restaurant Simulator - Distinction-Level Object-Oriented Custom Program
+Distinction-Level Custom Program made for COS20007 Object-Oriented Programming
